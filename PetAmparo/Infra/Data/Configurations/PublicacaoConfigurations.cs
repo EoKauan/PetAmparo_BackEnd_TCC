@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using PetAmparo.Entities;
+using PetAmparo.Domain.Entities;
 
 namespace PetAmparo.Infra.Data.Configurations
 {
@@ -14,18 +14,13 @@ namespace PetAmparo.Infra.Data.Configurations
                 .HasMaxLength(50)
                 .IsRequired();
 
-            builder.Property(p => p.Descricao)
-               .HasMaxLength(150)
-               .IsRequired();
+            builder.Property(p => p.Foto)
+               .IsRequired(false);
 
-            builder.Property(p => p.Descricao)
-               .HasMaxLength(200)
-               .IsRequired();
+            builder.Property(p => p.Data)
+                .IsRequired();
 
-            builder.Property(p => p.UsuarioId)
-               .IsRequired();
-
-            builder.Property(p => p.Imagem)
+            builder.Property(p => p.UsuarioId)                               
                .IsRequired();
 
             builder.ToTable("TB_Publicacao");

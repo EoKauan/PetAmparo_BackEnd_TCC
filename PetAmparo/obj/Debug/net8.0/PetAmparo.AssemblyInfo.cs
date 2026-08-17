@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetAmparo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59acba0f4b00a5e3773979355f5e7357177b2d29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cce62b9b5039a67516646195c47c242dd0ee881")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetAmparo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetAmparo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

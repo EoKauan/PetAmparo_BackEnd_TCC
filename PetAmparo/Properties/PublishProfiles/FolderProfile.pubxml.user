@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-11-23T03:25:24.2126138Z||;True|2025-11-22T17:08:47.8689178-03:00||;True|2025-11-14T12:17:44.3592017-03:00||;True|2025-11-14T11:34:12.0258224-03:00||;True|2025-11-13T22:12:51.0599485-03:00||;True|2025-08-20T20:30:45.4428354-03:00||;True|2025-08-20T20:17:23.2660969-03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

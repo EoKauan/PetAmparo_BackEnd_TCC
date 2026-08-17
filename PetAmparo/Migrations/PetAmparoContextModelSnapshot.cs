@@ -22,7 +22,49 @@ namespace PetAmparo.Migrations
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
-            modelBuilder.Entity("PetAmparo.Entities.Adocao", b =>
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Animal", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<Guid>("EspecieId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<int>("Idade")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("varchar(100)");
+
+                    b.Property<string>("Observacao")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("varchar(200)");
+
+                    b.Property<Guid>("RacaId")
+                        .HasColumnType("char(36)");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.Property<Guid>("UsuarioId")
+                        .HasColumnType("char(36)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("EspecieId");
+
+                    b.HasIndex("RacaId");
+
+                    b.HasIndex("UsuarioId");
+
+                    b.ToTable("TB_Animal", (string)null);
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.AnimalFoto", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -31,132 +73,43 @@ namespace PetAmparo.Migrations
                     b.Property<Guid>("AnimalId")
                         .HasColumnType("char(36)");
 
-                    b.Property<int>("Status")
-                        .HasColumnType("int");
-
-                    b.Property<Guid>("UsuarioId")
-                        .HasColumnType("char(36)");
+                    b.Property<string>("Foto")
+                        .IsRequired()
+                        .HasColumnType("longtext");
 
                     b.HasKey("Id");
 
-                    b.ToTable("TB_Adocao", (string)null);
+                    b.HasIndex("AnimalId");
+
+                    b.ToTable("TB_AnimalFoto", (string)null);
                 });
 
-            modelBuilder.Entity("PetAmparo.Entities.Animal", b =>
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Especie", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("char(36)");
 
-                    b.Property<DateTime>("DataCadastro")
+                    b.Property<string>("Descricao")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("varchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("TB_Especie", (string)null);
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Publicacao", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<DateTime>("Data")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<string>("Descricao")
-                        .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("varchar(200)");
-
-                    b.Property<int>("Especie")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Idade")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Imagem")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Nome")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("varchar(100)");
-
-                    b.Property<string>("Raca")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("varchar(50)");
-
-                    b.Property<int>("Status")
-                        .HasColumnType("int");
-
-                    b.Property<Guid>("UsuarioId")
-                        .HasColumnType("char(36)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("TB_Animal", (string)null);
-                });
-
-            modelBuilder.Entity("PetAmparo.Entities.Ong", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("char(36)");
-
-                    b.Property<string>("Cidade")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("varchar(50)");
-
-                    b.Property<DateTime>("DataCadastro")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<string>("Descricao")
-                        .IsRequired()
-                        .HasMaxLength(150)
-                        .HasColumnType("varchar(150)");
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasMaxLength(150)
-                        .HasColumnType("varchar(150)");
-
-                    b.Property<string>("Endereco")
-                        .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("varchar(200)");
-
-                    b.Property<string>("Imagem")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Nome")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("varchar(100)");
-
-                    b.Property<string>("Pix")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Senha")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("varchar(100)");
-
-                    b.Property<string>("Telefone")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("varchar(20)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("TB_Ong", (string)null);
-                });
-
-            modelBuilder.Entity("PetAmparo.Entities.Publicacao", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("char(36)");
-
-                    b.Property<string>("Descricao")
-                        .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("varchar(200)");
-
-                    b.Property<string>("Imagem")
-                        .IsRequired()
+                    b.Property<string>("Foto")
                         .HasColumnType("longtext");
 
                     b.Property<string>("Titulo")
@@ -169,41 +122,83 @@ namespace PetAmparo.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("UsuarioId");
+
                     b.ToTable("TB_Publicacao", (string)null);
                 });
 
-            modelBuilder.Entity("PetAmparo.Entities.Usuario", b =>
+            modelBuilder.Entity("PetAmparo.Domain.Entities.PublicacaoLike", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("char(36)");
 
-                    b.Property<string>("Cidade")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("varchar(50)");
+                    b.Property<Guid>("PublicacaoId")
+                        .HasColumnType("char(36)");
 
-                    b.Property<DateTime>("DataCadastro")
-                        .HasColumnType("datetime(6)");
+                    b.Property<Guid>("UsuarioId")
+                        .HasColumnType("char(36)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UsuarioId");
+
+                    b.HasIndex("PublicacaoId", "UsuarioId")
+                        .IsUnique();
+
+                    b.ToTable("TB_PublicacaoLike", (string)null);
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Raca", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
 
                     b.Property<string>("Descricao")
                         .IsRequired()
-                        .HasMaxLength(150)
-                        .HasColumnType("varchar(150)");
+                        .HasMaxLength(100)
+                        .HasColumnType("varchar(100)");
+
+                    b.Property<Guid>("EspecieId")
+                        .HasColumnType("char(36)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("EspecieId");
+
+                    b.ToTable("TB_Raca", (string)null);
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Usuario", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<bool>("Administrador")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("tinyint(1)")
+                        .HasDefaultValue(false);
+
+                    b.Property<string>("Bio")
+                        .HasColumnType("longtext");
+
+                    b.Property<Guid?>("ChaveResetSenha")
+                        .HasColumnType("char(36)");
 
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasMaxLength(150)
                         .HasColumnType("varchar(150)");
 
-                    b.Property<string>("Endereco")
-                        .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("varchar(200)");
-
-                    b.Property<string>("Imagem")
-                        .IsRequired()
+                    b.Property<string>("Foto")
                         .HasColumnType("longtext");
+
+                    b.Property<string>("Municipio")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)");
 
                     b.Property<string>("Nome")
                         .IsRequired()
@@ -223,6 +218,90 @@ namespace PetAmparo.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("TB_Usuario", (string)null);
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Animal", b =>
+                {
+                    b.HasOne("PetAmparo.Domain.Entities.Especie", "Especie")
+                        .WithMany()
+                        .HasForeignKey("EspecieId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PetAmparo.Domain.Entities.Raca", "Raca")
+                        .WithMany()
+                        .HasForeignKey("RacaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PetAmparo.Domain.Entities.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Especie");
+
+                    b.Navigation("Raca");
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.AnimalFoto", b =>
+                {
+                    b.HasOne("PetAmparo.Domain.Entities.Animal", "Animal")
+                        .WithMany("AnimalFoto")
+                        .HasForeignKey("AnimalId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Animal");
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Publicacao", b =>
+                {
+                    b.HasOne("PetAmparo.Domain.Entities.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.PublicacaoLike", b =>
+                {
+                    b.HasOne("PetAmparo.Domain.Entities.Publicacao", "Publicacao")
+                        .WithMany()
+                        .HasForeignKey("PublicacaoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PetAmparo.Domain.Entities.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Publicacao");
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Raca", b =>
+                {
+                    b.HasOne("PetAmparo.Domain.Entities.Especie", "Especie")
+                        .WithMany()
+                        .HasForeignKey("EspecieId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Especie");
+                });
+
+            modelBuilder.Entity("PetAmparo.Domain.Entities.Animal", b =>
+                {
+                    b.Navigation("AnimalFoto");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,3 +1,377 @@
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.staticwebassets.endpoints.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.build.PetAmparo.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetAmparo.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetAmparo.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.build.PetAmparo.props
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetAmparo.props
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetAmparo.props
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CopyComplete
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.json
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.staticwebassets.endpoints.json
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\swae.build.ex.cache
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+D:\Kauan\Back\PetAmparo\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.json
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
@@ -5,7 +379,13 @@ C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -22,6 +402,12 @@ C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extension
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
@@ -35,6 +421,7 @@ C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -94,6 +481,7 @@ C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyI
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssets.props
@@ -108,13 +496,891 @@ C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dl
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
 C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\lenovo\Desktop\PetAmparo\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\appsettings.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.build.PetAmparo.props
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetAmparo.props
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetAmparo.props
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\PetAmparoAPI\PetAmparo\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.staticwebassets.endpoints.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+C:\Users\Administrator\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.staticwebassets.endpoints.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+C:\Users\gustavo.goncalves\Documents\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.build.PetAmparo.props
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetAmparo.props
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetAmparo.props
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CopyComplete
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.staticwebassets.endpoints.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\swae.build.ex.cache
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+D:\Kauan_19_11_2025\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.staticwebassets.endpoints.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.PetAmparo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.build.PetAmparo.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetAmparo.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetAmparo.props
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.Development.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\appsettings.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.staticwebassets.endpoints.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.exe
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.deps.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.runtimeconfig.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\PetAmparo.pdb
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\FluentValidation.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Humanizer.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.Core.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\MySqlConnector.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.CodeDom.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.AssemblyReference.cache
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfoInputs.cache
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.AssemblyInfo.cs
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.CoreCompileInputs.cache
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cs
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.MvcApplicationPartsAssemblyInfo.cache
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.sourcelink.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\scopedcss\bundle\PetAmparo.styles.css
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.development.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\swae.build.ex.cache
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.csproj.Up2Date
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\refint\PetAmparo.dll
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.pdb
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\PetAmparo.genruntimeconfig.cache
+D:\PetAmparo_221_11_25\PetAmparo\PetAmparoAPI\PetAmparo\obj\Debug\net8.0\ref\PetAmparo.dll

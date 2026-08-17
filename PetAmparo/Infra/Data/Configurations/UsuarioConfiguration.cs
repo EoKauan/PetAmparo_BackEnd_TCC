@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using PetAmparo.Entities;
+using PetAmparo.Domain.Entities;
 
 namespace PetAmparo.Infra.Data.Configurations
 {
@@ -26,23 +26,17 @@ namespace PetAmparo.Infra.Data.Configurations
                .HasMaxLength(20)
                .IsRequired();
 
-            builder.Property(p => p.Descricao)
-                .HasMaxLength(150)
-                .IsRequired();
-
-            builder.Property(p => p.Cidade)
+            builder.Property(p => p.Municipio
+            )
                 .HasMaxLength(50)
                 .IsRequired();
 
-            builder.Property(p => p.DataCadastro)
-               .IsRequired();
+            builder.Property(p => p.Foto)
+               .IsRequired(false);
 
-            builder.Property(p => p.Endereco)
-               .HasMaxLength(200)
-               .IsRequired();
-
-            builder.Property(p => p.Imagem)
-               .IsRequired();
+            builder.Property(p => p.Administrador)
+                .IsRequired()
+                .HasDefaultValue(false);
 
             builder.ToTable("TB_Usuario");
         }

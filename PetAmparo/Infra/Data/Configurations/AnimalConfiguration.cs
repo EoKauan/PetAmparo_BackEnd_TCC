@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using PetAmparo.Entities;
-using System.Reflection.Emit;
+using PetAmparo.Domain.Entities;
 
 namespace PetAmparo.Infra.Data.Configurations
 {
@@ -9,27 +8,30 @@ namespace PetAmparo.Infra.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<Animal> builder)
         {
+
             builder.HasKey(p => p.Id);
 
             builder.Property(p => p.Nome)
                 .HasMaxLength(100)
                 .IsRequired();
 
-            builder.Property(p => p.Raca)
-               .HasMaxLength(50)
+            builder.Property(p => p.EspecieId)
+                .IsRequired();
+
+            builder.Property(p => p.RacaId)
                .IsRequired();
 
-            builder.Property(p => p.Descricao)
+            builder.Property(p => p.Idade)
+                .IsRequired();
+
+            builder.Property(p => p.Observacao)
                .HasMaxLength(200)
                .IsRequired();
 
+            builder.Property(p => p.Status)
+               .IsRequired();
+
             builder.Property(p => p.UsuarioId)
-               .IsRequired();
-
-            builder.Property(p => p.DataCadastro)
-               .IsRequired();
-
-            builder.Property(p => p.Imagem)
                .IsRequired();
 
             builder.ToTable("TB_Animal");
